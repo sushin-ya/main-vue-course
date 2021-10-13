@@ -40,7 +40,7 @@ export default {
       this.$emit('change-filter', updatedFilters);
     }
   }
-}
+};
 </script>
 
 <style scoped>
